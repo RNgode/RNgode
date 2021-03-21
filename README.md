@@ -1,5 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 
+## Connect to me
+<a href="https://www.linkedin.com/in/brian-odhiambo-ab5002190/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"></a>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
 ## Languages And Tools:
