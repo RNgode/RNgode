@@ -1,7 +1,7 @@
 <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 
 # Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
-### My Name is Raquel Ngode a software developer and and an AI enthusiast, i love coding and working on projects that help improves peoples lives. Most of all i love connecting and meeting people from all walks of life so <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+### My Name is Raquel Ngode a software developer and and an AI enthusiast, i love coding and working on projects that help improves peoples lives. Most of all i love connecting and meeting people from all walks of life. <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
 ## Connect to me
 <a href="https://www.linkedin.com/in/brian-odhiambo-ab5002190/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"></a>
