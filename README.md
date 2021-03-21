@@ -14,8 +14,8 @@
  
 
 <a href="link" style="text-align: center">
-<img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"  alt="centered image">
-<img src="URL" align="center"></a>
+<img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" align="center">
+</a>
 
 
 <!--
